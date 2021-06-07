@@ -3,14 +3,8 @@ package ex11;
 import java.util.Scanner;
 
 /*
-Example Output
-How many euros are you exchanging? 81
-What is the exchange rate? 1.3751
-81 euros at an exchange rate of 1.3751 is
-111.38 U.S. dollars.
-Constraints
-Ensure that fractions of a cent are rounded up to the next penny.
-Use a single output statement.
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Naomi Palm
  */
 
 
